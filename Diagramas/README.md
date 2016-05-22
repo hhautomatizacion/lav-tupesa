@@ -13,5 +13,3 @@
 * Diagramas de bloques
 
 * Dibujos
-
-![dibujos chuecos de Turro](/Diagramas/dibujos chuecos de Turro.jpg)
