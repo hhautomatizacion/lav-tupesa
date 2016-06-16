@@ -33,6 +33,8 @@
 ---
 ![PASSO9.ICO](/Programas/iconos v3/PASSO9.ICO)
 ---
+![alarm clock.png](/Programas/iconos v3/alarm clock.png)
+---
 ![arrow_left.ico](/Programas/iconos v3/arrow_left.ico)
 ---
 ![arrow_left.png](/Programas/iconos v3/arrow_left.png)
@@ -76,6 +78,8 @@
 ![forward.ico](/Programas/iconos v3/forward.ico)
 ---
 ![forward.png](/Programas/iconos v3/forward.png)
+---
+![hourglass.png](/Programas/iconos v3/hourglass.png)
 ---
 ![insert_row.ico](/Programas/iconos v3/insert_row.ico)
 ---

@@ -115,6 +115,22 @@
 ---
 ![Captura de pantalla 2015-12-01 13.15.57.png](/Fotos/Captura de pantalla 2015-12-01 13.15.57.png)
 ---
+![Captura de pantalla 2016-06-16 11.53.13.png](/Fotos/Captura de pantalla 2016-06-16 11.53.13.png)
+---
+![Captura de pantalla 2016-06-16 11.54.45.png](/Fotos/Captura de pantalla 2016-06-16 11.54.45.png)
+---
+![Captura de pantalla 2016-06-16 14.40.08.png](/Fotos/Captura de pantalla 2016-06-16 14.40.08.png)
+---
+![Captura de pantalla 2016-06-16 14.40.15.png](/Fotos/Captura de pantalla 2016-06-16 14.40.15.png)
+---
+![Captura de pantalla 2016-06-16 14.40.21.png](/Fotos/Captura de pantalla 2016-06-16 14.40.21.png)
+---
+![Captura de pantalla 2016-06-16 14.40.33.png](/Fotos/Captura de pantalla 2016-06-16 14.40.33.png)
+---
+![Captura de pantalla 2016-06-16 14.40.49.png](/Fotos/Captura de pantalla 2016-06-16 14.40.49.png)
+---
+![Captura de pantalla 2016-06-16 14.54.04.png](/Fotos/Captura de pantalla 2016-06-16 14.54.04.png)
+---
 ![DSC03420.JPG](/Fotos/DSC03420.JPG)
 ---
 ![DSC03421.JPG](/Fotos/DSC03421.JPG)
@@ -156,6 +172,8 @@
 ![PASSO5.ICO](/Programas/iconos v3/PASSO5.ICO)
 ---
 ![PASSO9.ICO](/Programas/iconos v3/PASSO9.ICO)
+---
+![alarm clock.png](/Programas/iconos v3/alarm clock.png)
 ---
 ![arrow_left.ico](/Programas/iconos v3/arrow_left.ico)
 ---
@@ -200,6 +218,8 @@
 ![forward.ico](/Programas/iconos v3/forward.ico)
 ---
 ![forward.png](/Programas/iconos v3/forward.png)
+---
+![hourglass.png](/Programas/iconos v3/hourglass.png)
 ---
 ![insert_row.ico](/Programas/iconos v3/insert_row.ico)
 ---
