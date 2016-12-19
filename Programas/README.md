@@ -55,6 +55,8 @@
 ---
 ![passo10.png](/Programas/iconos v3/passo10.png)
 ---
+![passo11.png](/Programas/iconos v3/passo11.png)
+---
 ![passo12.png](/Programas/iconos v3/passo12.png)
 ---
 ![passo3.png](/Programas/iconos v3/passo3.png)
@@ -64,6 +66,8 @@
 ![passo5.png](/Programas/iconos v3/passo5.png)
 ---
 ![passo9.png](/Programas/iconos v3/passo9.png)
+---
+![passoS.png](/Programas/iconos v3/passoS.png)
 ---
 ![pause.png](/Programas/iconos v3/pause.png)
 ---
