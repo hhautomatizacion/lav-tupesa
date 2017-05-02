@@ -158,6 +158,12 @@
 ---
 ![IMG_0213.JPG](/Fotos/IMG_0213.JPG)
 ---
+![IMG_1177.JPG](/Fotos/IMG_1177.JPG)
+---
+![IMG_1178.JPG](/Fotos/IMG_1178.JPG)
+---
+![IMG_1182.JPG](/Fotos/IMG_1182.JPG)
+---
 ![LOGO2.png](/Programas/iconos v3/LOGO2.png)
 ---
 ![alarm clock.png](/Programas/iconos v3/alarm clock.png)
