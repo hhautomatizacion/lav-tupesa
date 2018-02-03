@@ -19,6 +19,8 @@
 ---
 ![LOGO2.png](/Programas/iconos%20v3/LOGO2.png)
 ---
+![Network (2).png](/Programas/iconos%20v3/Network%20(2).png)
+---
 ![alarm clock.png](/Programas/iconos%20v3/alarm%20clock.png)
 ---
 ![arrow_left.png](/Programas/iconos%20v3/arrow_left.png)

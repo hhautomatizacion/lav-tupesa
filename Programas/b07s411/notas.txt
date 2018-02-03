@@ -1,0 +1,3 @@
+No editar!
+
+Editar la version para dop-b05s111 y de ahi convertir. No olvidar cambiar el tamaño de texto de los grid a 22 pixeles.
