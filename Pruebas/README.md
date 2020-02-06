@@ -13,3 +13,7 @@
 * Capturas de comunicacion
 
 * Modelos de componentes que se hayan probado
+
+---
+![example diagram for wiring with a PLC input.JPG](/Pruebas/example%20diagram%20for%20wiring%20with%20a%20PLC%20input.JPG)
+---

@@ -22,8 +22,8 @@
 * Modulo Analogo G7F-R2D
 
 ## Autores
-* <a href="http://www.github.com/pedrohermon">pedrohermon</a> <img src="https://avatars0.githubusercontent.com/u/15159556?v=3" height="32" width="32">
-* <a href="http://www.github.com/emmanuel156">emmanuel156</a> <img src="https://avatars0.githubusercontent.com/u/15036095?v=3" height="32" width="32">
+* <a href="http://www.github.com/pedrohermon">pedrohermon</a> <img src="https://avatars3.githubusercontent.com/u/15159556?v=4" height="32" width="32">
+* <a href="http://www.github.com/emmanuel156">emmanuel156</a> <img src="https://avatars3.githubusercontent.com/u/15036095?v=4" height="32" width="32">
 
 ## Comentarios
 * Ninguno
@@ -164,6 +164,10 @@
 ---
 ![IMG_1182.JPG](/Fotos/IMG_1182.JPG)
 ---
+![IMG_20180212_170330810.jpg](/Fotos/IMG_20180212_170330810.jpg)
+---
+![33795560.png](/Programas/iconos%20v3/33795560.png)
+---
 ![LOGO2.png](/Programas/iconos%20v3/LOGO2.png)
 ---
 ![Network (2).png](/Programas/iconos%20v3/Network%20(2).png)
@@ -257,4 +261,6 @@
 ![truck_load.png](/Programas/iconos%20v3/truck_load.png)
 ---
 ![truck_unload.png](/Programas/iconos%20v3/truck_unload.png)
+---
+![example diagram for wiring with a PLC input.JPG](/Pruebas/example%20diagram%20for%20wiring%20with%20a%20PLC%20input.JPG)
 ---
